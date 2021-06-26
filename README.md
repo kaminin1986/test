@@ -1,7 +1,2 @@
 # test
-djsnfjsdnvnndsknvsdmk
-
-hjgjrejgkljrkjgkjsdjgsdjkgjs
-dsljfdjkslahfkldklsjfds
-
-dsffjsdkjkfjksdf
+НЕ НУЖНО ПРОСМАТРИВАТЬ КОД ТАК КАК ЭТОТ КОД СОЗДАН ДЛЯ ИЗУЧЕНИЯ .HTML
